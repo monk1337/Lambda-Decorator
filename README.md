@@ -1,5 +1,5 @@
 # Lambda-Decorator
-Decorator implemented in Lambda function (Anonymous Function)
+This Repository is about A decorator implemented in Lambda function (Anonymous Function)
 
 What are lambda Functions ?
 
